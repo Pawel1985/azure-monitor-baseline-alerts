@@ -60,7 +60,7 @@
       "value": "rg-amba-monitoring-001"
     },
     "ALZMonitorResourceGroupLocation": {
-      "value": "eastus"
+      "value": "westeurope"
     },
     "ALZMonitorResourceGroupTags": {
       "value": {
