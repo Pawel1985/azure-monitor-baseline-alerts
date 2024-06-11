@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "Hays"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "Corp"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "Corp"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "Corp"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "Corp"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "Navision"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -68,7 +68,7 @@
       }
     },
     "ALZMonitorActionGroupEmail": {
-      "value": ""
+      "value": "kondratowicz@hays.pl"
     },
     "ALZLogicappResourceId": {
       "value": ""
