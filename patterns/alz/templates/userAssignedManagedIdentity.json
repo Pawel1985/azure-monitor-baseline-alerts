@@ -42,10 +42,7 @@
                             "type": "Microsoft.ManagedIdentity/userAssignedIdentities",
                             "apiVersion": "2018-11-30",
                             "name": "[parameters('uamiName')]",
-                            "location": "[parameters('uamiLocation')]",
-                            "tags": {
-                                "_deployed_by_amba": true
-                            }
+                            "location": "[parameters('uamiLocation')]"
                         }
                     ]
                 }
