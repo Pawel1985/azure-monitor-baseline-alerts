@@ -45,10 +45,10 @@
       "value": "No"
     },
     "bringYourOwnUserAssignedManagedIdentity": {
-      "value": "No"
+      "value": "Yes"
     },
     "bringYourOwnUserAssignedManagedIdentityResourceId": {
-      "value": ""
+      "value": "/subscriptions/745d0318-a9fe-4122-88f8-b7ceef8bf254/resourceGroups/Built-In-Identity-RG/providers/Microsoft.ManagedIdentity/userAssignedIdentities/Built-In-Identity-uaenorth"
     },
     "userAssignedManagedIdentityName": {
       "value": "id-amba-prod-001"
